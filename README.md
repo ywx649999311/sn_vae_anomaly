@@ -8,3 +8,7 @@
 ### Amanda:
 
 - nice graphs
+
+### Ethan:
+
+- very quick test of CNN

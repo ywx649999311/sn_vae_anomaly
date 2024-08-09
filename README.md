@@ -1,6 +1,6 @@
 # Anomaly Detection 
 
-### Wejxiang:
+### Weixiang:
 
 - Interpolation
 - Upsampling
